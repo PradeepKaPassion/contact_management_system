@@ -5,7 +5,8 @@ view, edit, search and delete contacts. All added and edited records are saved i
 You can list contacts by name, phone no., address and email. File handling has been used
 to record all data. Overall, understanding the simple source code of this project will teach
 you how to add, edit, search, list and remove data using a file.
-About : File handling, data structure, functions, and pointers are the
+
+File handling, data structure, functions, and pointers are the
 main things which make up this simple C mini project. The key features of contact
 management system are listed below:
 ● Add new contactswith information such as name, phone number, address, and
