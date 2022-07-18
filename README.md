@@ -17,4 +17,4 @@ details
 ● Search contacts: based on name and phone number
 ● Edit contacts: edit information given while adding the contacts – name, phone
 number, address, and email
-● Delete contacts: deletes contacts from file
+● Delete contacts: deletes contacts from file.
